@@ -1,0 +1,51 @@
+#card_computo{
+    color:#1A237E;
+    font-family:Helvetica,sans-serif,Arial;
+    font-weight: bold;
+}
+
+.card_computo_1{
+    font-family:Helvetica,sans-serif,Arial;
+    color: #1A237E;
+    font-weight: bold;
+}
+
+.card_computo_2{
+    font-family:Helvetica,sans-serif,Arial;
+    color: #1A237E;
+    font-size: small;
+    font-weight: bold;
+}
+
+.lbl_txt{
+    font-family:Helvetica,sans-serif,Arial;
+    color: #1A237E;
+}
+
+.lbl_tabla{
+    font-family:Helvetica,sans-serif,Arial;
+    color: #1A237E;
+    font-size: small;
+}
+
+.linea{
+    border-top-width: 8px;
+    border-style: solid;
+    border-image: linear-gradient(45deg, rgb(241,196,15), rgb(212,172,13), rgb(249,231,159))1;
+    height: 1px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+}
+
+.tabla_rep{
+    background-color:rgb(207, 226, 255);
+}
+
+.fondo_boton{
+    background-color:#4285F4;
+    color: white;
+}
+
